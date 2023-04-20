@@ -1,4 +1,4 @@
-# Visual-localization-related-Papers
+# Visual-Localization-related-Papers
 A collection of multi-modal based visual localization related papers
 
 # Outline
