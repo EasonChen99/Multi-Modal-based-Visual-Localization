@@ -4,7 +4,7 @@ A collection of multi-modal based visual localization related papers
 # Outline
 - [Visual Localization Approaches](#1-Visual-Localization-Approaches)
   - [Visual-Only](#11-Visual-Only)
-  - [Visual + LiDAR](#12-Visual-LiDAR)
+  - [Camera + LiDAR](#12-Camera-LiDAR)
   
 # 1. Visual Localization Approaches
 
@@ -18,7 +18,7 @@ A collection of multi-modal based visual localization related papers
 | Learning Less is More | [Learning Less is More - 6D Camera Localization via 3D Surface Regression](http://openaccess.thecvf.com/content_cvpr_2018/papers/Brachmann_Learning_Less_Is_CVPR_2018_paper.pdf) | CVPR 2018 | [Code](https://github.com/vislearn/LessMore) |
 | DSAC | [DSAC - Differentiable RANSAC for Camera Localization](https://arxiv.org/pdf/1611.05705v4.pdf) | CVPR 2017 | [Code](https://github.com/cvlab-dresden/DSAC) |
 
-## 1.2 Visual + LiDAR
+## 1.2 Camera + LiDAR
 | Name    | Paper                                                                                                                                                      | Source | Resource                                                             |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |----------------------------------------------------------------------|
 | FusionLoc | [FusionLoc: Camera-2D LiDAR Fusion Using Multi-Head Self-Attention for End-to-End Serving Robot Reloc](https://arxiv.org/abs/2303.06872) | arxiv 2023 |  |
