@@ -25,5 +25,6 @@ A collection of multi-modal based visual localization related papers
 |[Back to the Feature: Learning Robust Camera Localization from Pixels to Pose](https://arxiv.org/abs/2103.09213) | CVPR | 2021 | [Code](https://github.com/cvg/pixloc) |
 |[HyperMap: Compressed 3D Map for Monocular Camera Registration](https://ieeexplore.ieee.org/abstract/document/9561864) | ICRA | 2021 | Unavailable |
 |[DeepI2P: Image-to-Point Cloud Registration via Deep Classification](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_DeepI2P_Image-to-Point_Cloud_Registration_via_Deep_Classification_CVPR_2021_paper.pdf) | CVPR | 2021 | [Code](https://github.com/lijx10/DeepI2P) |
+|[i3dLoc: Image-to-range Cross-domain Localization Robust to Inconsistent Environmental Conditions](https://arxiv.org/abs/2105.12883) | arxiv | 2021 | Unavailable |
 |[CMRNet: Camera to LiDAR-Map Registration](https://ieeexplore.ieee.org/abstract/document/8917470) | ITSC | 2019 | [Code](https://github.com/cattaneod/CMRNet) |
 
