@@ -18,6 +18,7 @@ A collection of multi-modal based visual localization related papers
 # 2. Visual Localization based on Multi-Modal Learning
 |Name | Source  | Year | Resource |
 |--- |-------------| --- | --- |
+|[OrienterNet: Visual Localization in 2D Public Maps with Neural Matching](https://openaccess.thecvf.com/content/CVPR2023/html/Sarlin_OrienterNet_Visual_Localization_in_2D_Public_Maps_With_Neural_Matching_CVPR_2023_paper.html) | CVPR | 2023 | Unavailable |
 |[FusionLoc: Camera-2D LiDAR Fusion Using Multi-Head Self-Attention for End-to-End Serving Robot Reloc](https://arxiv.org/abs/2303.06872) | arxiv | 2023 | Unavailable |
 |[CP+: Camera Poses Augmentation with Large-scale LiDAR Maps](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9872176) | RCAR | 2022 | Unavailable |
 |[Robust Monocular Localization in Sparse HD Maps Leveraging Multi-Task Uncertainty Estimation](https://ieeexplore.ieee.org/abstract/document/9812266) | ICRA | 2022 | Unavailable |
