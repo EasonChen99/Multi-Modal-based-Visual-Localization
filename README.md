@@ -8,10 +8,10 @@ A collection of multi-modal based visual localization related papers
 # 1. Visual-Only Localization
 |Name | Source | Year | Resource |
 |--- |-------------| --- | --- |
-|[Da4ad: End-to-end deep attention-based visual localization for autonomous driving](https://link.springer.com/chapter/10.1007/978-3-030-58604-1_17) | ECCV | 2020 | Unavailable |
 |[CLoc: Confident Initial Estimation of Long-term Visual Localization Using a Few Sequential Images in Large-scale Spaces](https://ieeexplore.ieee.org/abstract/document/10068431) | Sensors | 2023 | Unavailable |
 |[Learning to Localize in Unseen Scenes with Relative Pose Regressors](https://arxiv.org/abs/2303.02717) | arxiv | 2023 | [Code](https://github.com/yolish/relformer) |
 |[PixSelect: Less but Reliable Pixels for Accurate and Efficient Localization](https://arxiv.org/abs/2206.03775) | ICRA | 2022 | Unavailable |
+|[Da4ad: End-to-end deep attention-based visual localization for autonomous driving](https://link.springer.com/chapter/10.1007/978-3-030-58604-1_17) | ECCV | 2020 | Unavailable |
 |[TartanVO: A Generalizable Learning-based VO](https://arxiv.org/pdf/2011.00359v1.pdf) | PMLR | 2020 | [Code](https://github.com/castacks/tartanair_tools) |
 | [Learning Less is More - 6D Camera Localization via 3D Surface Regression](http://openaccess.thecvf.com/content_cvpr_2018/papers/Brachmann_Learning_Less_Is_CVPR_2018_paper.pdf) | CVPR | 2018 | [Code](https://github.com/vislearn/LessMore) |
 |[DSAC - Differentiable RANSAC for Camera Localization](https://arxiv.org/pdf/1611.05705v4.pdf) | CVPR | 2017 | [Code](https://github.com/cvlab-dresden/DSAC) |
