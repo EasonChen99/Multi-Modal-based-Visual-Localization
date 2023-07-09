@@ -1,5 +1,5 @@
 # Visual-Localization-related-Papers
-A collection of multi-modal based visual localization related papers
+A collection of recent works for multi-modal based visual localization
 
 # Outline
 - [Visual-Only Localization](#1-Visual-Only-Localization)
